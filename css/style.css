@@ -23,8 +23,6 @@
   #actions{
     display: flex;
     padding: 0 25px;
-    display: flex;
-    justify-content: flex-start;
   }
   
   p {
@@ -113,9 +111,7 @@
   
   #trending {
     display: flex;
-    justify-content: center;
     margin-top: 65px;
-    align-items: center;
   }
   
   #trending p {
@@ -126,7 +122,6 @@
     width: 85px;
     height: 20px;
     display: flex;
-    justify-content: center;
     align-items: center;
   }
   
